@@ -5,7 +5,7 @@ Run all the cells in main.ipynb sequentially
 ## Running the code on server
 Path - /home/e1-246-19 <br>
 Command to run - ./run.sh "text string"
-## Running the code
+## Running the code on local machine
 python3 main.py "text string" <br>
 python main.py "text string" <br> 
 make sure to put the string in inverted commas.
